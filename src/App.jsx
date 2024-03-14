@@ -1,5 +1,5 @@
 import {useLayoutEffect} from "react"
-import "./App.css"
+import "./sass/style.css"
 import relogio1 from "./assets/relogio2.svg"
 import relogio2 from "./assets/relogio-preto.svg"
 import relogio3 from "./assets/relogio-ultra.svg"
